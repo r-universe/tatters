@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "soundgen"]
+	path = soundgen
+	url = https://github.com/tatters/soundgen
+	shallow = true
+	registered = true
